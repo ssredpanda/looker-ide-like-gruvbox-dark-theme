@@ -1,16 +1,16 @@
 .ace_editor {
-    background-color: #002B36;
+    background-color: #1E1E1E;
     color: #93A1A1;
     font-size: 18px;
     font-family: 'Inconsolata','Menlo';
 }
 
 .ace_identifier {
-    color: #c76363;
+    color: #CFB88B;
 }
 
 .ace_gutter {
-    background: #01313f;
+    background: #1E1E1E;
     color: #d0edf7;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .ace_entity.ace_other.ace_attribute-name, .ace_storage {
-    color: #93A1A1;
+    color: #FEB749;
 }
 
 .ace_cursor, .ace_string.ace_regexp {
@@ -58,7 +58,7 @@
 }
 
 .ace_keyword, .ace_meta, .ace_support.ace_class, .ace_support.ace_type {
-    color: #859900;
+    color: #CE5D15;
 }
 
 .ace_constant.ace_character, .ace_constant.ace_other {
@@ -79,16 +79,16 @@
 }
 
 .ace_entity.ace_name.ace_function, .ace_entity.ace_name.ace_tag, .ace_support.ace_function, .ace_variable, .ace_variable.ace_language {
-    color: #268BD2;
+    color: #CE5D15;
 }
 
 .ace_string {
-    color: #2AA198;
+    color: #AAB106;
 }
 
 .ace_comment {
     font-style: italic;
-    color: #657B83;
+    color: #B6803D;
 }
 
 .ace_line.ends_with_foreign:not(.starts_with_foreign) .ace_token, .ace_line.ends_with_foreign:not(.starts_with_foreign) .ace_indent-guide {
@@ -100,7 +100,7 @@
 }
 
 .ace_paren {
-    color: #93a1a1;
+    color: #FECE0A;
 }
 
 .ace_indent-guide {
