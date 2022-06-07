@@ -12,8 +12,3 @@ The LookML Editor is based on the open source [Ace editor](https://ace.c9.io/). 
 ## Usage
 Copy/paste the styles found in the file looker.css in Stylebot (or alternative add-on) and set the custom stylesheet for your Looker instance URL.
 
-## Known Issues
-It's not perfect. There are a few things I don't like but did not have time to investigate further.
-If you find this useful, feel free to improve on it and submit pull requests with refined styles and fixes.
-
-Discuss and share updates on the [Looker Discourse post](https://discourse.looker.com/t/customizing-the-ide/7935).
